@@ -1,4 +1,4 @@
-### Olá! Eu sou o Ronald Garcia
+### Olá! Seja muito bem vindo, é um prazer tê-lo por aqui! Eu sou o Ronald Amorim Garcia.
 
 - 🌱 Atualmente, estou participando do bootcamp Carrefour;
 - 👯 Procuro um primeiro emprego;
