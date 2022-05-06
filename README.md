@@ -1,8 +1,8 @@
 ### Olá! Seja muito bem vindo, é um prazer tê-lo por aqui! Eu sou o Ronald Amorim Garcia.
 
-- 🌱 Atualmente, estou participando do bootcamp Carrefour;
-- 👯 Procuro um primeiro emprego;
-- 😄 Pronouns: Ele/dele.
+- Sou amante de Java e pretendo iniciar minha carreira no back-end;
+- Estou participando de um Bootcamp da GTF pela dio.me;
+- Amo aprender e quero poder futuramente construir meus próprios web-sites (tanto front-end quanto back-end).
 
 <div align="center">
   <a href="https://github.com/RonaldAG">
