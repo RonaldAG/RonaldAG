@@ -1,8 +1,7 @@
-### Olá! Seja muito bem vindo, é um prazer tê-lo por aqui! Eu sou o Ronald Amorim Garcia.
+### Hello! Welcome to my portfolio. I'm Ronald Garcia.
 
-- Sou amante de Java e pretendo iniciar minha carreira no back-end;
-- Estou participando de um Bootcamp da GTF pela dio.me;
-- Amo aprender e quero poder futuramente construir meus próprios web-sites (tanto front-end quanto back-end).
+- I'm a Java developer;
+- Currently, I'm studying about Spring Framework, MySQL and API's with Java.
 
 <div align="center">
   <a href="https://github.com/RonaldAG">
