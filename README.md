@@ -1,22 +1,9 @@
 # Hi there! :smile: 
 
-My name is Ronald Garcia and I'm from Brazil (:brazil:). I'm currently a Software Engineering student at [Centro Universitário Senac](https://www.senac.edu.br/). I'm passionate about learn, so I'm always studyig some technology. 
+My name is Ronald Garcia.
 
-In my free time I like to watch animes and series, work on my English profience and play some games.  
+This is my personal repo and here you'll find projects about artificial intelligence and algorithms.
 
-## About me
-- Study java and Spring framework;
-- Participate in some bootcamps and imersions;
-
-### Technologies
-<div style="display: inline_block">
-<p> <strong>Front-end <br>  
-<img align="center" alt="Ronald-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
-  <img align="center" alt="Ronald-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ronald-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"">
-<p> Back-end </strong> <br>
-  <img align="center" alt="Ronald-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  
 </div>
 <br>
 <div align="center">
