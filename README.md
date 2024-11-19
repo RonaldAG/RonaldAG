@@ -2,7 +2,7 @@
 
 My name is Ronald Garcia.
 
-This is my personal repo. Here you'll find projects about artificial intelligence and algorithms.
+This is my personal repo. Here you'll find projects about the fundamentals algorithms of artificial intelligence. Also, I have some repos with web development content
 
 </div>
 <br>
